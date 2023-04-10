@@ -1,0 +1,66 @@
+{
+  "title":"Qual personagem de One Piece você seria ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual sua comida favorita ?",
+      "options":[
+        {"id": 1, "name":"Carne", "alias":"A"},
+        {"id": 2, "name":"Sake", "alias":"B"},
+        {"id": 3, "name":"Tangerinas", "alias":"C"},
+        {"id": 4, "name":"Hamburgueres", "alias":"D"},
+        {"id": 5, "name":"Pratos franceses", "alias":"E"},
+        {"id": 6, "name":"Doces ", "alias":"F"},
+        {"id": 7, "name":"Sanduíches  ", "alias":"G"},
+        {"id": 8, "name":"Refrigerante ", "alias":"H"},
+        {"id": 9, "name":"Chá ", "alias":"I"},
+        {"id": 10, "name":"Takoyaki ", "alias":"J"}
+
+      ]
+    },
+    {
+      "id":2,
+      "question": "Qual sua cor favorita ?",
+      "options":[
+        {"id": 1, "name":"Vermelho", "alias":"A"},
+        {"id": 2, "name":"Verde escuro", "alias":"B"},
+        {"id": 3, "name":"Laranja", "alias":"C"},
+        {"id": 4, "name":"Verde-oliva", "alias":"D"},
+        {"id": 5, "name":"Preto", "alias":"E"},
+        {"id": 6, "name":"Rosa claro ", "alias":"F"},
+        {"id": 7, "name":"Roxo  ", "alias":"G"},
+        {"id": 8, "name":"Azul ", "alias":"H"},
+        {"id": 9, "name":"Preto e branco ", "alias":"I"},
+        {"id": 10, "name":"Azul escuro ", "alias":"J"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual arma voçê usaria para lutar ?",
+      "options":[
+        {"id": 1, "name":"Soco", "alias":"A"},
+        {"id": 2, "name":"Espada", "alias":"B"},
+        {"id": 3, "name":"Bastão", "alias":"C"},
+        {"id": 4, "name":"Estilingue", "alias":"D"},
+        {"id": 5, "name":"Chutes", "alias":"E"},
+        {"id": 6, "name":"Mochila", "alias":"F"},
+        {"id": 7, "name":"Flores", "alias":"G"},
+        {"id": 8, "name":"Raio Laser", "alias":"H"},
+        {"id": 9, "name":"Violino", "alias":"I"},
+        {"id": 10, "name":"Karatê", "alias":"J"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Luffy",
+    "B": "Zoro",
+    "C": "Nami",
+    "D": "Usopp",
+    "E": "Sanj",
+    "F": "Chopper",
+    "G": "Robin",
+    "H": "Franky",
+    "I": "Brook",
+    "J": "Jinbe"
+  }
+}
